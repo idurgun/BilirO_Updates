@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.4",
-    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.4/update_patch.zip",
-    "release_notes": "***\nYeni bölümler eklendi:Ücret Alacağı ve Sonuç"
+    "latest_version": "2.0.5",
+    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.5/update_patch.zip",
+    "release_notes": "- Docx şablonunda iyileştirmeler yapıldı.\n- Kıdem / İhbar hesaplama tablolarına sıfırlama butonu eklendi.\n- Türkçe yazım denetimi eklendi.\n- DipNot özelliği eklendi."
 }
