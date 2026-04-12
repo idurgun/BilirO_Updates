@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.6",
-    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.6/update_patch.zip",
+    "latest_version": "2.0.7",
+    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.7/update_patch.zip",
     "release_notes": "- Hizmet Süresi bölümü Hesaplama işlemi iki seçenekli hale getirildi.\n- Kıdem/İhbar bölümü Hesaplama işlemi iki seçenekli hale getirildi.\n- Yıllık İzin Ücreti bölümü Hesaplama işlemi iki seçenekli hale getirildi.\n- Docx oluşturma sorunları giderildi.\n- Kayıtlı raporu açma sorunalrı giderildi."
 }
