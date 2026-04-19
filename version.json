@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.7",
-    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.7/update_patch.zip",
-    "release_notes": "- Ücret Durumu bölümü güncellendi.\n- Kıdem/İhbar bölümü güncellendi.\n - Ücret Alacağı bölümü güncellendi.\n- Dipnot güncellendi.\n- Sonuç sayfası güncellendi."
+    "latest_version": "2.0.8",
+    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.8/update_patch.zip",
+    "release_notes": "Çift seçenekli yapı genişletildi."
 }
