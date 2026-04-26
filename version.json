@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.9",
-    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.9/update_patch.zip",
-    "release_notes": "Docx hataları düzeltildi."
+    "latest_version": "2.0.10",
+    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.10/update_patch.zip",
+    "release_notes": "Kütüphane bölümü eklendi.\nSonuç sayfasında iyileştirmeler yapıldı.\nHizmet Süresi bölümünde iyileştirmeler yapıldı."
 }
