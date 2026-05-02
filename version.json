@@ -1,5 +1,5 @@
 {
-    "latest_version": "2.0.12",
-    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.12/update_patch.zip",
-    "release_notes": "Yaptık işte bişeyler..."
+    "latest_version": "2.0.13",
+    "download_url": "https://github.com/idurgun/BilirO_Updates/releases/download/2.0.13/update_patch.zip",
+    "release_notes": "Program genelinde iyileştirmeler yapıldı.\nVeritabanı kayıtlarına eklemeler yapıldı."
 }
